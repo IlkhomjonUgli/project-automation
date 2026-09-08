@@ -1,6 +1,6 @@
 {
   "_comment": "Content schedule for @edusync.uz. Add a day: commit its folder + caption, then add an entry to posts. No n8n change needed.",
-  "igUserId": "REPLACE_WITH_EDUSYNC_IG_USER_ID",
+  "igUserId": "38113728728274389",
   "startDate": "REPLACE_WITH_START_DATE",
   "timezone": "Asia/Tashkent",
   "imageBase": "https://ilkhomjonugli.github.io/project-automation/edusync",
