@@ -1,5 +1,5 @@
 {
-  "_comment": "Content schedule for @edusync.uz. Add a day: commit its folder + caption, then add an entry to posts. No n8n change needed.",
+  "_comment": "Content schedule for @edusync.uz. Add a day: commit its folder + caption, then add an entry to posts. No n8n change needed. NOTE: posts.2.1 = 0 because day 2 slot 1 was published manually on 2026-09-09 00:29 Tashkent.",
   "igUserId": "38113728728274389",
   "startDate": "2026-09-08",
   "timezone": "Asia/Tashkent",
@@ -11,7 +11,7 @@
       "2": 7
     },
     "2": {
-      "1": 7,
+      "1": 0,
       "2": 7
     },
     "3": {
